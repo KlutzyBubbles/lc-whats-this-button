@@ -47,6 +47,8 @@ Or better yet, see the below info on various keybinds. If you dont see your keyb
 | Name |
 |---|
 | \<Mouse\>/scroll |
+| \<Mouse\>/scroll/up |
+| \<Mouse\>/scroll/down |
 | \<Mouse\>/middleButton |
 | \<Mouse\>/leftButton |
 | \<Mouse\>/rightButton |
